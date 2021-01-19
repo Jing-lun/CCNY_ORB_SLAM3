@@ -1,3 +1,0 @@
-/home/roboticlab/Code/CCNY_Roboticlab_ORBSLAM3/Thirdparty/g2o/build/CMakeFiles/rebuild_cache.dir
-/home/roboticlab/Code/CCNY_Roboticlab_ORBSLAM3/Thirdparty/g2o/build/CMakeFiles/g2o.dir
-/home/roboticlab/Code/CCNY_Roboticlab_ORBSLAM3/Thirdparty/g2o/build/CMakeFiles/edit_cache.dir
