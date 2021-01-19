@@ -1,0 +1,5 @@
+<launch>
+	
+ 	<node pkg="CCNY_Roboticlab_ORBSLAM3" type="RGBD_inertial" name="RGBD_inertial"  args="/home/roboticlab/Code/CCNY_Roboticlab_ORBSLAM3/Vocabulary/ORBvoc.bin /home/roboticlab/Code/CCNY_Roboticlab_ORBSLAM3/Setting/CCNY_d435i_8415.yaml" cwd="node" output="screen">
+   </node>
+</launch>
