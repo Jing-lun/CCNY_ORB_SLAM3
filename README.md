@@ -3,7 +3,7 @@
 You can run with your RGBD/RGBD-IMU camera in real time
 
 ## Usage
-** Note: you should complie the Thirdparty at first, steps could also follow the below:
+### Note: you should complie the Thirdparty at first, steps could also follow the below:
 * `mkdir build`
 * `cd build`
 * `cmake ..`
